@@ -14,7 +14,7 @@ I used to help build web and mobile apps as co-founder of Fusionary Media (1995-
 ## See also
 
 - Browse by [Tags](/tags).
-- [My Lifestack](/lifestack) (aka /uses)
+- [My Lifestack](/uses) (aka /uses)
 - [Books I've Read](https://jackbaty.com/books)
 - What I'm doing [now](/now)
 - [Nope!](/nope) - things I'm not interested in
