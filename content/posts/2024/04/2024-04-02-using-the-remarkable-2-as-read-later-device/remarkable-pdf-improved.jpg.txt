@@ -1,0 +1,29 @@
+Caption: A PDF using my updated Pandoc template
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 3
+
+----
+
+Uuid: 4E4UYzyM7uTugTeW
+
+----
+
+Template: image

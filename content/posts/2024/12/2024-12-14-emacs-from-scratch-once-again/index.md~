@@ -1,0 +1,18 @@
+---
+title: 'Emacs from scratch once again'
+date: 2024-12-14 11:04:39 -0500
+slug: emacs-from-scratch-once-again
+categories: [""]
+tags: [""]
+summary: 
+draft: true
+cover: 
+  image: 
+  relative: true
+  hidden: false
+  caption: 
+---
+
+I went to bed last night all fired up about the idea of rebuilding my Emacs configuration from scratch. I've been happily using [Doom Emacs](https://github.com/doomemacs/doomemacs) for some time, but missed the feeling of having built something myself. I mean, if I wanted everything done for me, I could just use Obsidian, right?
+
+

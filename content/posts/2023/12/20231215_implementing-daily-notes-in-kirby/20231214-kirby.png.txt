@@ -1,0 +1,29 @@
+Caption: The day's Journal entry in the Kirby panel.
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 1
+
+----
+
+Uuid: nhmD9BtjSdmHqmGv
+
+----
+
+Template: image

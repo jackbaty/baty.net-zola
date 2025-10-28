@@ -1,0 +1,29 @@
+Caption: The smallimages area of site.yml
+
+----
+
+Alt: 
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Sort: 3
+
+----
+
+Uuid: KvuaTPdzT6p1NWYz
+
+----
+
+Template: image

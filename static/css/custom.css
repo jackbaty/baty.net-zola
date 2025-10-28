@@ -1,0 +1,19 @@
+.e-content.body p, .e-content.body ul {
+  line-height: 1.4rem;
+}
+
+.footnotes {
+  margin-top: 50px;
+  font-size: 0.8rem;
+}
+
+
+a.reply-by-email {
+    display: block;
+    margin: 1em auto;
+    width: fit-content;
+    background: var(--admonition-note-bg);
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: 1px solid var(--admonition-note-border);
+}
