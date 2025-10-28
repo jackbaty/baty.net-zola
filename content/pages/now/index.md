@@ -1,6 +1,7 @@
 ---
 title: Now
 path: "now"
+
 ---
 
 
@@ -13,10 +14,11 @@ Updated on Thursday, October 16, 2025
 - Trying to go all-in with Linux (Namely Arch via Omarchy)
 - Setting up new (UGREEN) NAS
 - Learning to use Darktable to process photos. (or _trying_ to)
+- Moving this blog from Hugo to Zola
 
 ## Watched Recently
 
-{{< figure src="watched.jpg" caption="" >}}
+"A House Of Dynamite" ★★
 
 ## Reading
 
@@ -24,4 +26,4 @@ Updated on Thursday, October 16, 2025
 
 
 
-[^thx]: (Thanks to [Derek Sivers](https://sive.rs/) for the idea of [keeping a /now page](https://nownownow.com/about) like this one.)
+[^thx]: Thanks to [Derek Sivers](https://sive.rs/) for the idea of [keeping a /now page](https://nownownow.com/about) like this one.
