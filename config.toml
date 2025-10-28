@@ -141,7 +141,7 @@ show_author = false
 
 # Show the reading time of a page.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
-show_reading_time = true
+show_reading_time = false
 
 # Show the date of a page below its title.
 # Can be set at page or section levels, following the hierarchy: page > section > config. See: https://welpo.github.io/tabi/blog/mastering-tabi-settings/#settings-hierarchy
