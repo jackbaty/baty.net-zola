@@ -70,7 +70,7 @@
     <updated>{{ last_updated | date(format="%+") }}</updated>
     {%- endif -%}
     <id>{{ feed_url | safe }}</id>
-    {%- for page in pages | slice(end=19) %}
+    {%- for page in pages %}
     {%- if macros_settings::evaluate_setting_priority(setting="hide_from_feed", page=page, default_global_value=false) == "true" -%}
         {%- continue -%}
     {%- endif -%}

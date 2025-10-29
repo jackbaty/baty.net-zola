@@ -4,6 +4,7 @@ description = "A blog about everything by Jack Baty"
 author = "Jack Baty"
 generate_feeds = true
 feed_filenames = ["index.xml"] # doesn't seem to work
+feed_limit = 20 
 
 compile_sass = true
 minify_html = false
