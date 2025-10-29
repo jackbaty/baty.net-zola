@@ -8,7 +8,8 @@ max_posts = 7
 show_previous_next_article_links = true
 +++
 
-<strong>Director of Unspecified Services.</strong><br>
+<strong>Director of Unspecified Services.</strong>
+
 Amateur photographer, blogger, and curious nerd.
 
 Welcome to my blog about everything.
