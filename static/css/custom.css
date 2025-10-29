@@ -2,6 +2,10 @@
   line-height: 1.4rem;
 }
 
+.e-content.body a {
+  text-decoration: underline;
+}
+
 .footnotes {
   margin-top: 50px;
   font-size: 0.8rem;
@@ -21,3 +25,5 @@ a.reply-by-email {
 .toc-container {
   font-size: 0.8rem;
 }
+
+
