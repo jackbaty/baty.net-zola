@@ -17,3 +17,7 @@ a.reply-by-email {
     border-radius: 3px;
     border: 1px solid var(--admonition-note-border);
 }
+
+.toc-container {
+  font-size: 0.8rem;
+}

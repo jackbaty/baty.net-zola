@@ -1,10 +1,10 @@
----
-title: My Lifestack
-Date: 2023-05-05
-path: lifestack
-toc: true
-tocopen: true
----
++++
+title = "My Lifestack"
+Date = 2023-05-05
+path = "lifestack"
+[extra]
+toc = true
++++
 
 A list of things that I use to manage my life or that I simply enjoy using.
 
