@@ -44,3 +44,5 @@ Here's where I ended up:
 
 
 This prompts for a title then asks me if I want to create a standalone file or something like blog-post-title/index.md. It creates the file with all the appropriate front matter (using TOML, yuck) and then I'm off and running.
+
+The original inspiration for this is from [Jeremy Friesen](https://takeonrules.com/2021/05/20/emacs-function-to-rename-hugo-blog-post/), so thanks for that!
