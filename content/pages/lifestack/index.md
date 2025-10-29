@@ -1,7 +1,7 @@
 ---
 title: My Lifestack
 Date: 2023-05-05
-path: uses
+path: lifestack
 toc: true
 tocopen: true
 ---
