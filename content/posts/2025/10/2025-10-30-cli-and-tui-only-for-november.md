@@ -16,6 +16,7 @@ So this means:
 - [Mutt](https://mutt.org) instead of Mu4e for email
 - [Taskwarrior](https://linkarzu.com/posts/neovim/markdown-setup-2025/) instead of Org-mode for tasks
 - [LazyGit](https://github.com/jesseduffield/lazygit) instead of Magit for Git.
+- [Newsboat](https://newsboat.org) instead of Elfeed
 
 I might even give [nb](https://xwmx.github.io/nb/#home) a fair shake, just for kicks.
 
