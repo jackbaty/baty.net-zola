@@ -8,6 +8,8 @@ tags = ["Workflow","NeoVim"]
 
 I think I'll try something. I think I'll try using only CLI and TUI apps during the month of November.
 
+<!-- more -->
+
 So this means:
 
 - [NeoVim](https://neovim.io/) / [LazyVim](https://www.lazyvim.org/) instead of Emacs and Org-mode for notes
