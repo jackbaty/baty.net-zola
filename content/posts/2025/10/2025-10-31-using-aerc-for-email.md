@@ -6,7 +6,7 @@ slug = "using-aerc-for-email"
 tags = ["Software","Email"]
 +++
 
-Since I'm using [Using only CLI and TUI apps in November](https://baty.net/posts/2025/10/cli-and-tui-only-for-november/), I needed to find a replacement for Mu4e in Emacs. As a long-time Mutt user, I assumed that's what I'd use. A couple people recommended that I try [aerc](https://aerc-mail.org/) instead.
+Since I'm [using only CLI and TUI apps in November](https://baty.net/posts/2025/10/cli-and-tui-only-for-november/), I needed to find a replacement for Mu4e in Emacs. As a long-time Mutt user, I assumed that's what I'd use. A couple people recommended that I try [aerc](https://aerc-mail.org/) instead.
 
 <!-- more -->
 
