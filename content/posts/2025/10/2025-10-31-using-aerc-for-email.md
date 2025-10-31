@@ -15,3 +15,5 @@ I've run into aerc before, but assumed it was some super geeky thing meant for e
 ![aerc screenshot](/img/2025/aerc-screenshot.jpg) 
 
 I'm only a few hours into it, so I'm not yet qualified to say if aerc is preferable to Mutt, but so far, so good. I've not done any significant customization, but I'm sure that will come later.
+
+Thanks to [Christian Cleberg](https://cleberg.net/) for the nudge.
