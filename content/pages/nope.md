@@ -47,6 +47,7 @@ I collect these throughout each year and record them when they reach a threshold
 * Banger
 * Trump
 * Trauma
+* Bloated
 
 ### 2024
 
