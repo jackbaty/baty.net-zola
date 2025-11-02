@@ -23,4 +23,6 @@ windowrulev2 = size 800 60%, class:(floating-term)
 
 This gets me a conveniently sized and placed terminal window with jrnl waiting for me to type whatever I want. A simple CTRL-d and it creates the jrnl entry and the window goes away.
 
+The `jrnl --config-override editor ""` bit forces jrnl to wait for stdin so I can just start typing.
+
 This many be overkill, since I could just type `jrnl` in any terminal, but this is just a smidge more convenient.
