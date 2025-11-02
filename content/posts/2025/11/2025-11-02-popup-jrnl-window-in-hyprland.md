@@ -25,4 +25,4 @@ This gets me a conveniently sized and placed terminal window with jrnl waiting f
 
 The `jrnl --config-override editor ""` bit forces jrnl to wait for stdin so I can just start typing.
 
-This many be overkill, since I could just type `jrnl` in any terminal, but this is just a smidge more convenient.
+It may be overkill, since I could just type `jrnl` in any terminal, but this is just a smidge more convenient.
