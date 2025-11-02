@@ -128,7 +128,7 @@ cat > "$FILE_PATH" << EOF
 +++
 title = "${TITLE}"
 date = ${ISO_DATE}
-slug = ${SLUG}
+slug = "${SLUG}"
 [taxonomies]
 tags = ["Misc"]
 +++
