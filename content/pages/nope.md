@@ -41,6 +41,7 @@ I collect these throughout each year and record them when they reach a threshold
 
 ### 2025
 
+* Learnings
 * Agentic
 * Fire
 * Banger

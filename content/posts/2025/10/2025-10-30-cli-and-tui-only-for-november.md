@@ -25,3 +25,6 @@ Why would I bother with this? No reason other than that it's fun. Omarchy comes 
 Then I started tinkering with Taskwarrior and what a blast that is. I used it full-time for a couple years a long time ago. It's fun to revisit.
 
 A tiling window manager with a bunch of terminal windows open feels like some kind of dashboard for super nerds and I want to play.
+
+
+UPDATE: Instead of Mutt, I'm going with [aerc](aerc-mail.org). Should be interesting.
