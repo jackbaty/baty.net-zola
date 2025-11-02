@@ -1,7 +1,8 @@
 +++
 title = "Popup jrnl window in Hyprland"
-date = 2025-11-02 07:18:01-05:00
+date = 2025-11-02 06:18:01-05:00
 slug = "popup-jrnl-window-in-hyprland"
+description = "Making it easier to quickly create entries in `jrnl` using a floating popup window"
 [taxonomies]
 tags = ["Linux"]
 +++
