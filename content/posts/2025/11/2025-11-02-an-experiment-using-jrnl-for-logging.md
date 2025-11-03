@@ -2,8 +2,9 @@
 title = "An experiment using jrnl for logging"
 date = 2025-11-02 13:32:44-05:00
 slug = "an-experiment-using-jrnl-for-logging"
+description = "jrnl is a nifty way to manage OBTF"
 [taxonomies]
-tags = ["Misc"]
+tags = ["Software"]
 +++
 
 [Speaking of jrnl](https://baty.net/posts/2025/11/popup-jrnl-window-in-hyprland/), did I mention that I'm testing [jrnl](https://jrnl.sh/en/stable/) as my daily logging tool?
