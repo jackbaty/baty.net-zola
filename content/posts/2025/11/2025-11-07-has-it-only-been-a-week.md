@@ -6,7 +6,7 @@ slug = "has-it-only-been-a-week"
 tags = ["Linux"]
 +++
 
-I started my [CLI app only](https://baty.net/posts/2025/10/cli-and-tui-only-for-november/) experiment at the end of October, meaning that it's been just over a week of nothing but CLI and TUI apps for everything (except browsing). How's it going?
+I started my [CLI app only](https://baty.net/posts/2025/10/cli-and-tui-only-for-november/) experiment at the end of October, meaning that it's been just over a week of nothing but CLI and TUI apps for nearly everything. How's it going?
 
 Well, it's been fun. I suspected it would be, because I've been living in a terminal on and off for decades now. It's not as if terminal apps are new to me. Diving back into them has been a blast.
 
