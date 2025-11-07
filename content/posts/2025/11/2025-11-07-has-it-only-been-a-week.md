@@ -14,7 +14,7 @@ But here's the thing. Once the novelty wears off, it can become a bit tedious. I
 
 Another drawback to everything-in-a-terminal is that everything looks the same. My email, my notes, my tasks, my files, everything. It's a bunch of similar rectangles and it can become kind of boring.
 
-So, right now, I have mixed feelings about the whole enterprise, but I'm sticking with it for now. Today I'm going to see if I can get LazyVim to calm down and just me write instead of trying to tell me how to write. (It's probably the whole LSP integration thing).
+So, right now, I have mixed feelings about the whole enterprise, but I'm sticking with it for now. Today I'm going to see if I can get LazyVim to calm down and just let me write instead of trying to tell me how to write. (It's probably the whole LSP integration thing).
 
 
 
