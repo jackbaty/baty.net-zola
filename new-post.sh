@@ -82,7 +82,8 @@ fi
 YEAR=$(date +%Y)
 MONTH=$(date +%m)
 DATE_PREFIX=$(date +%Y-%m-%d)
-ISO_DATE=$(date +"%Y-%m-%d %H:%M:%S%:z")
+#ISO_DATE=$(date +"%Y-%m-%d %H:%M:%S%:z")
+ISO_DATE=$(date +"%Y-%m-%d %H:%M:%S%z" | sed 's/\([0-9][0-9]\)$/:\1/')
 
 # Create slug from title
 SLUG=$(title_to_slug "$TITLE")
