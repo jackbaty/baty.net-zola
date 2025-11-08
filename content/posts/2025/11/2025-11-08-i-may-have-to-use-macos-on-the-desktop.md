@@ -12,7 +12,7 @@ Many of the apps I use on macOS are also available on Linux. This is awesome. It
 
 Most of the problems are around photo processing. I've spent many (many!) hours learning and testing [Darktable](https://www.darktable.org/) for RAW processing. It's a powerful tool with a lot of clever ideas, some of which I actually prefer to its Mac counterparts. However, Darktable is not at all pleasant to use. Once the cleverness and new-shiny factors are past, I'm forced to live in a clumsy, awkward, unpleasant, unattractive environment. I miss [Capture One](https://www.captureone.com/en) dearly. Capture One gets me results I like quickly and easily. It's better.
 
-Then there's scanning. I've spent years trying to wrangle [SilverFast](https://www.silverfast.com/) to a point where I don't hate it. Recent updates have introduced the feature of scanning multiple (3, in my case) frames at once, making it much faster. I used to use Vuescan, and it's available on Linux, so I tried it. So so slow. And it does a pretty poor job with color film.
+Then there's scanning. I've spent years wrangling [SilverFast](https://www.silverfast.com/) to a point where I don't hate it. Recent updates have introduced the feature of scanning multiple (3, in my case) frames at once, making it much faster. I used to use Vuescan, and it's available on Linux, so I tried it. So so slow. And it does a pretty poor job with color film.
 
 With digital camera scans, nothing beats [Negative Lab Pro](https://www.negativelabpro.com/) for doing inversions. NLP requires Lightroom Classic, so I'm kind of stuck there. I tried the Negadoctor feature of Darkroom and, while feasible, inversions are slow and tedious.
 
