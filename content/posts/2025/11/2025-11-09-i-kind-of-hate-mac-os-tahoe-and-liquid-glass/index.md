@@ -2,6 +2,7 @@
 title = 'I kind of hate macOS Tahoe and Liquid Glass'
 date = 2025-11-09 07:20:44-05:00
 slug = "i-kind-of-hate-mac-os-tahoe-and-liquid-glass"
+description = "After using Linux for a while, a lot of things about macOS Tahoe bug me"
 [taxonomies]
   tags = ["macOS"]
 +++
@@ -16,7 +17,7 @@ Then I tried installing some apps that I've been enjoying on Linux, but macOS wo
 
 I swore I wasn't going to weigh in on Liquid Glass because that would make me about the only person who hasn't. Except that the more I use it, the more it bugs me. Even with the 26.1 "Tinted" setting, it's awful. I'll list three things that bug me about Tahoe.
 
-First,  those Playskool-inspired rounded windows. Serously, windows are square on desktop computers. This isn't an iPad.
+First,  those Playskool-inspired rounded windows. Seriously, windows should be square on desktop computers. This isn't an iPad.
 
 Second, side panels aren't really panels. They're like a separate element hovering over the side of my app window. Feels disjointed and I hate it.
 
