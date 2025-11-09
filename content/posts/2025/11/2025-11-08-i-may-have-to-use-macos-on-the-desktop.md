@@ -16,7 +16,7 @@ Then there's scanning. I've spent years wrangling [SilverFast](https://www.silve
 
 With digital camera scans, nothing beats [Negative Lab Pro](https://www.negativelabpro.com/) for doing inversions. NLP requires Lightroom Classic, so I'm kind of stuck there. I tried the Negadoctor feature of Darkroom and, while feasible, inversions are slow and tedious.
 
-Photography is not just something tinker with occasionally. It's my most enjoyable hobby. I don't think I want to suffer through it, just so I can use Linux.
+Photography is not just something I tinker with occasionally. It's my most enjoyable hobby. I don't think I want to suffer through it, just so I can use Linux.
 
 There are several other apps that I seriously miss from macOS. [BBEdit](https://www.barebones.com/products/bbedit/) is still unbeatable for ease of use, stability, and capabilities when it comes to manipulating text. [Tinderbox](https://eastgate.com/Tinderbox) is one of a kind for outlining and notes. There's nothing on Linux comparable with [OmniFocus](https://www.omnigroup.com/omnifocus/) for task management. And so on.
 
@@ -24,7 +24,7 @@ But the deal-breaking omission might be Messages. Everyone I communicate with re
 
 On the other hand, I love using the Framework laptop when away from my desk. I like the keyboard better than the MacBook Air's. Knowing I can easily upgrade or fix things (inexpensively) for years is very compelling.
 
-So all this to say that I may end up using a Mac on the desktop and Linux on the laptop. I swore I'd never do that again. Between sync, paths, filename case mismatches, and wildly different key bindings, using both is a royal pain in the ass.
+So all this to say that I may end up using a Mac on the desktop and Linux on the laptop. I swore I'd never do that again. Between sync, paths, configuration issues, filename case mismatches, and wildly different key bindings, using both is a royal pain in the ass.
 
 This rambling post is just me working through all of this. I'm typing this post using BBEdit on the Mac Mini, and I gotta say that having the standard Emacs keybindings everywhere is a compelling case for macOS for me.
 
