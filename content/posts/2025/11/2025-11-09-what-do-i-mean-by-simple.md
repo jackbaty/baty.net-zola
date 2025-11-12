@@ -2,6 +2,7 @@
 title = 'What do I even mean by "Simple?"'
 date = 2025-11-12 05:15:25-05:00
 slug = "what-do-i-mean-by-simple"
+description = "How am I going to Reduce & Simplify if I don't know what Simple means"
 [taxonomies]
   tags = ["Workflow"]
 +++
