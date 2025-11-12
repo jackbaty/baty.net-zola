@@ -9,16 +9,14 @@ path: "now"
 
 Here are a few things I’m doing or learning or playing with these days[^thx]
 
-Updated on Thursday, October 16, 2025
+Updated on 2025-11-12
 
 - Trying to go all-in with Linux (Namely Arch via Omarchy)
-- Setting up new (UGREEN) NAS
-- Learning to use Darktable to process photos. (or _trying_ to)
-- Moving this blog from Hugo to Zola
+- Still learning to use Darktable to process photos. (or _trying_ to)
 
 ## Watched Recently
 
-"A House Of Dynamite" ★★
+"Good Fortune" ⭐⭐⭐
 
 ## Reading
 
