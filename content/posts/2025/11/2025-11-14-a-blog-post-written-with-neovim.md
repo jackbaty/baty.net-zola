@@ -11,7 +11,7 @@ It's been the kind of day where using (or trying to use) Emacs frustrates me.
 
 I've spent the past few weeks adapting my custom Emacs configuration to work on Linux. I was so confident that I would be moving to Linux that I ignored anything that might not work cross-platform. I should know better.
 
-Today I was using my Mac and fired up Emacs and of course nothing worked. I spent nearly 2 hours futzing with it and I still don't know what's gone wrong. Reviewing Git commits hasn't narrowed it down, either. It's not the fact that I broke Emacs, it's more that I'm so capable of breaking Emacs at any time. I do it more than I care to. I'm not in the mood for it, ya know?
+Today I was using my Mac and fired up Emacs and of course nothing worked. I spent nearly 2 hours futzing with it and I still don't know what's gone wrong. Reviewing Git commits hasn't narrowed it down, either. It's not the fact that I broke Emacs, it's more that I'm so capable of breaking Emacs at any time. I do it more than I care to. I'm not in the mood, ya know?
 
 My mood today has been less than festive, so my problems with Emacs just made a bad thing worse, so I quit Emacs in a huff.
 
