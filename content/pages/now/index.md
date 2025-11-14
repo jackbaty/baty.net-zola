@@ -4,23 +4,23 @@ path: "now"
 
 ---
 
-
 # What I'm doing Now
 
 Here are a few things I’m doing or learning or playing with these days[^thx]
 
-Updated on 2025-11-12
+Updated on November 14, 2025
 
 - Trying to go all-in with Linux (Namely Arch via Omarchy)
 - Still learning to use Darktable to process photos. (or _trying_ to)
+- Playing with [MiniMax](https://nvim-mini.org/MiniMax/) as a change of pace
 
 ## Watched Recently
 
-"Good Fortune" ⭐⭐⭐
+"One Battle After Another" ⭐⭐⭐⭐
 
 ## Reading
 
-- _The Tools_ by Phil Stutz and Barry Michels
+- _The Persuaders_ by Anand Giridharadas
 
 
 
