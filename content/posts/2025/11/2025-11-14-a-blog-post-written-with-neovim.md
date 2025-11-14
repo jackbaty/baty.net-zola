@@ -17,6 +17,6 @@ My mood today has been less than festive, so my problems with Emacs just made a 
 
 I installed the [MiniMax](https://nvim-mini.org/MiniMax/) configuration for NeoVim and I am typing this post using it. I didn't write a line of configuration and I didn't tweak a thing. It's working fine, for now.
 
-MiniMax isn't as fancy as [LazyVim](https://github.com/LazyVim/LazyVim), but it's also not as seizure-inducing by default.
+MiniMax isn't as fancy as [LazyVim](https://github.com/LazyVim/LazyVim), but it's also not as seizure-inducing by default. It strikes a nice balance between friendly and frenzied.
 
 It's not like I'm switching permanently back to Vim, but when I'm mad at Emacs, this NeoVim setup is pretty nice. Sometimes Emacs and I get into a destructive relationship, and we take a little break. That's probably all this is.
