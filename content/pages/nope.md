@@ -14,6 +14,7 @@ Here is a list of things I don't want to do, in no particular order. I'll update
 **I don't want to:**
 
 * ...decide where to put things
+* ...install your app
 * ...charge the battery
 * ...pair with my phone
 * ...update the firmware
@@ -30,7 +31,6 @@ Here is a list of things I don't want to do, in no particular order. I'll update
 * ...share my contacts
 * ...fill out your stupid cookie form
 * ...see what's trending
-* ...install another app
 * ...send anonymous usage data
 
 ## Words to avoid
