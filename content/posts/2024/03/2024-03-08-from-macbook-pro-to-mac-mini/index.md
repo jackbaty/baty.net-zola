@@ -3,7 +3,6 @@ title: From MacBook Pro to Mac Mini
 date:  2024-03-08T06:35:00-04:00
 taxonomies:
   tags: ["Gear"]
-slug: 
 summary: 
 cover:
   image: 

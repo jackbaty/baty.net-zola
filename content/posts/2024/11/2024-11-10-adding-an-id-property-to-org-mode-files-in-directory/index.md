@@ -3,7 +3,6 @@ title: Adding an ID property to Org-mode files in directory
 date:  2024-11-10T12:08:11-04:00
 taxonomies:
   tags: ["Emacs"]
-slug: 
 summary: "I wanted to add an :ID: property to several hundred files, but only if one didn't already exist. I cheated and asked ChatGPT for help. It helped."
 ---
 

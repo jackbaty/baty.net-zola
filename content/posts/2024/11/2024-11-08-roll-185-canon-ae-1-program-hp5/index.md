@@ -3,7 +3,6 @@ title: Roll-185 (Canon AE-1 Program HP5)
 date:  2024-11-08T11:48:09-04:00
 taxonomies:
   tags: ["photography","canon","film"]
-slug: 
 summary: 
 cover:
   image: 2024-Roll-185_31_2048.jpg

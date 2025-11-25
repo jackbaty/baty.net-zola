@@ -3,7 +3,6 @@ title: Writing a blog using Tinderbox
 date:  2024-06-15T13:10:54-04:00
 taxonomies:
   tags: ["Blogging","Tinderbox"]
-slug: 
 summary:
 cover:
   image: blog1.jpeg

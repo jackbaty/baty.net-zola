@@ -3,7 +3,6 @@ title: Nuke & Pave - the half-hearted edition
 date:  2024-03-03T06:47:25-04:00
 taxonomies:
   tags: ["Workflow"]
-slug: 
 summary: A tactical, localized reset of my system(s)
 cover:
   image: 

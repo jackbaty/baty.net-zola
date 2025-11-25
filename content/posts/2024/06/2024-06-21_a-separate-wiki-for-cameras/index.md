@@ -3,7 +3,6 @@ title: A separate wiki for cameras
 date:  2024-06-21T12:48:36-04:00
 taxonomies:
   tags: ["Photography"]
-slug: 
 summary:
 cover:
   image: 

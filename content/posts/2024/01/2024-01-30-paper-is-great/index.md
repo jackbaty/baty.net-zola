@@ -4,7 +4,6 @@ date:  2024-01-30T12:10:32-04:00
 taxonomies:
   tags: ["untagged"]
 categories: ["Analog"]
-slug: 
 summary:
 cover:
   image: 20240130-cards.jpg

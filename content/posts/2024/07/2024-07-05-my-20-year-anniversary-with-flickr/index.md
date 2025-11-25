@@ -3,7 +3,6 @@ title: My 20-year anniversary with Flickr
 date:  2024-07-05T13:06:01-04:00
 taxonomies:
   tags: ["Photography"]
-slug: 
 summary:
 cover:
   image: jess-on-tramp.jpg

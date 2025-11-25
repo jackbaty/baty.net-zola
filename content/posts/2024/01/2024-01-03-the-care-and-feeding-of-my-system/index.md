@@ -4,7 +4,6 @@ date:  2024-01-03T17:54:31-04:00
 taxonomies:
   tags: ["Workflow"]
 categories: ["Emacs"]
-slug: 
 cover:
   image: featured.jpg
   caption: It's taped right there on the wall, Jack.

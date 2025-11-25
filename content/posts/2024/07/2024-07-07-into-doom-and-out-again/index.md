@@ -3,7 +3,6 @@ title: Into Doom and out again
 date:  2024-07-07T13:01:04-04:00
 taxonomies:
   tags: ["Emacs"]
-slug: 
 summary:
 cover:
   image: 

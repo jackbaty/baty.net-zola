@@ -3,7 +3,6 @@ title: Floating images in Ghost
 date:  2024-11-08T11:56:45-04:00
 taxonomies:
   tags: ["blogging","ghost"]
-slug: 
 summary: 
 ---
 

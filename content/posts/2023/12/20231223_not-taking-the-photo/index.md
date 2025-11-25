@@ -4,7 +4,7 @@ date:  2023-12-23T07:40:05-04:00
 taxonomies:
   tags: ["Photography"]
 categories: ["Photography"]
-slug: 
+slug: not-taking-the-photo
 summary: I have never regretted taking a photo, but I always regret not taking one.
 ---
 

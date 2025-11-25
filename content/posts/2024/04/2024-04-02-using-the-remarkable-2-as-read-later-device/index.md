@@ -3,7 +3,6 @@ title: Using the reMarkable 2 as Read-Later device
 date:  2024-04-02T06:19:08-04:00
 taxonomies:
   tags: ["Hardware"]
-slug: 
 summary: 
 cover:
   image: 

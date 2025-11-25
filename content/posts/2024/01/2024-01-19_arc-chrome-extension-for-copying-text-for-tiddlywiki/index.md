@@ -3,7 +3,6 @@ title: Arc (Chrome) extension for copying text for TiddlyWiki
 date:  2024-01-19T07:16:34-04:00
 taxonomies:
   tags: ["TiddlyWiki"]
-slug: 
 summary: An extension for easily copying text from a web page into TiddlyWiki
 cover:
   image: 

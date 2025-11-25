@@ -4,7 +4,6 @@ date:  2024-07-13T06:19:07-04:00
 categories: ["Photography"]
 taxonomies:
   tags: [Photography,Film,Hasselblad]
-slug: 
 summary: 
 cover:
   image: cover.jpg

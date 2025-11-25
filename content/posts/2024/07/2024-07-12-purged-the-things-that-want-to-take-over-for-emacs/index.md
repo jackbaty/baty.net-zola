@@ -3,7 +3,6 @@ title: Purged the things that want to take over for Emacs
 date:  2024-07-12T13:02:47-04:00
 taxonomies:
   tags: ["Emacs"]
-slug: 
 summary:
 cover:
   image: 

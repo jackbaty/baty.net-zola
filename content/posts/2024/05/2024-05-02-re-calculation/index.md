@@ -3,7 +3,6 @@ title: Re-calculation
 date:  2024-05-02T06:07:03-04:00
 taxonomies:
   tags: ["Hardware"]
-slug: 
 summary: I like this calculator better than the one it replaces
 cover:
   image: 20240502-104156.jpg

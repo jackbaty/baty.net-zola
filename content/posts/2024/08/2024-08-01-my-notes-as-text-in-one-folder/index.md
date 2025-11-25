@@ -3,7 +3,6 @@ title: My notes as text in one folder
 date:  2024-08-01T12:32:15-04:00
 taxonomies:
   tags: ["Workflow","SilverBullet"]
-slug: 
 summary:
 ---
 

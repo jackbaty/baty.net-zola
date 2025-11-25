@@ -3,7 +3,6 @@ title: A brief flashback into Lightroom
 date:  2024-02-16T07:07:39-04:00
 taxonomies:
   tags: ["Photography"]
-slug: 
 summary: In which I think about using Lightroom again.
 cover:
   image: 

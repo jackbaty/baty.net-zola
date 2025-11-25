@@ -3,7 +3,7 @@ title: Implementing Daily Notes in Kirby
 date:  2023-12-15T06:19:51-04:00
 taxonomies:
   tags: ["Blogging","Kirby"]
-slug: 
+slug: implementing-daily-notes-in-kirby
 summary: How I reimplemented my Daily Notes feature from my Tinderbox blog to baty.net in Kirby
 cover:
   image: 

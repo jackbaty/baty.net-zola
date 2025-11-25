@@ -3,7 +3,7 @@ title: Display list of org-attach'ed files in buffer property
 date: 2023-11-09T09:29:19-05:00
 taxonomies:
   tags: ["Emacs"]
-slug: 
+slug: display-list-of-org-attach-ed-files-in-buffer-property
 summary: I often want a list of attached files displayed <em>right in </em>the org-mode file.
 ---
 

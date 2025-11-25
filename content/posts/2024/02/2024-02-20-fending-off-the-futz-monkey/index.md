@@ -3,7 +3,6 @@ title: Fending off the Futz Monkey
 date:  2024-02-20T06:57:58-04:00
 taxonomies:
   tags: ["Workflow", "Productivity", "Emacs"]
-slug: 
 summary: When is trying to avoid futzing actually just more futzing?
 cover:
   image: 

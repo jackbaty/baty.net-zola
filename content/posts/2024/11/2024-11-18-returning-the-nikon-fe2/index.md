@@ -3,7 +3,6 @@ title: Returning the Nikon FE2
 date:  2024-11-18T12:58:52-04:00
 taxonomies:
   tags: ["photography","Nikon"]
-slug: 
 summary: "I bought a nice Nikon FE2, but I don't love it enough to keep it."
 cover: 
   image: 2024-Roll-186_08_2048.jpg

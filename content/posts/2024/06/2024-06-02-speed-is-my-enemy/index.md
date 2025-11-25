@@ -3,7 +3,6 @@ title: Speed is my enemy
 date:  2024-06-02T13:21:13-04:00
 taxonomies:
   tags: ["untagged"]
-slug: 
 summary: My brain isn't necessarily fast, but it's always in a hurry.
 cover:
   image: 

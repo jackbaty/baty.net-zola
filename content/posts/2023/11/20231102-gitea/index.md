@@ -3,7 +3,7 @@ title: Gitea
 date: 2023-11-02T09:09:17-05:00
 taxonomies:
   tags: ["Gitea","Software"]
-slug: 
+slug: gitea
 summary: Why would anyone host their own Git repos when Github exists?
 ---
 

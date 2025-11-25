@@ -3,7 +3,6 @@ title: Photo Mechanic in 2024
 date:  2024-06-28T12:38:37-04:00
 taxonomies:
   tags: ["Photography","Software"]
-slug: 
 summary:
 cover:
   image: photo-mechanic-screenshot.jpg

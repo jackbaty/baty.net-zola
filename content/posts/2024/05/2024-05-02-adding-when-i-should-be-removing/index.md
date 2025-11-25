@@ -3,7 +3,6 @@ title: Adding when I should be removing
 date:  2024-05-02T06:12:35-04:00
 taxonomies:
   tags: ["Workflow"]
-slug: 
 summary: Reducing complexity is never accomplished by adding complexity.
 cover:
   image: 

@@ -3,7 +3,6 @@ title: What if I stopped worrying about [THING]?
 date:  2024-03-14T06:27:31-04:00
 taxonomies:
   tags: ["untagged"]
-slug: 
 summary: Things would be easier if I stopped worrying about all sorts of meaningless computer things
 cover:
   image: 

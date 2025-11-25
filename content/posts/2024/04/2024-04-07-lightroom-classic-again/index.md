@@ -3,7 +3,6 @@ title: Lightroom (Classic)...again
 date:  2024-04-07T06:16:53-04:00
 taxonomies:
   tags: ["Photography"]
-slug: 
 summary: 
 cover:
   image: 

@@ -3,7 +3,6 @@ title: Creating a WARC web archive using wget
 date:  2024-03-02T06:49:22-04:00
 taxonomies:
   tags: ["Archiving"]
-slug: 
 summary: 
 cover:
   image: 

@@ -3,7 +3,6 @@ title: Whatever happened to my junk drawer?
 date:  2024-03-03T06:45:09-04:00
 taxonomies:
   tags: ["Workflow","DEVONthink","Tinderbox"]
-slug: 
 summary: I used to use Evernote as a junk drawer. Now what should I use?
 cover:
   image: 

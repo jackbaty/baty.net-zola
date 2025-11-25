@@ -3,7 +3,6 @@ title: I've already stopped using Hey email
 date:  2024-05-09T05:55:44-04:00
 taxonomies:
   tags: ["Email"]
-slug: 
 summary: My on-again-off-again relationship with Hey email is off again
 cover:
   image: 

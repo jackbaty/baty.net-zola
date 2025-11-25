@@ -3,7 +3,6 @@ title: Using the Apple Extended Keyboard II
 date:  2024-05-01T06:14:15-04:00
 taxonomies:
   tags: ["Hardware"]
-slug: 
 summary: 
 cover:
   image: keyboard.jpg

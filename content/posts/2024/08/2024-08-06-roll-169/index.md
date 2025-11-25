@@ -3,7 +3,6 @@ title: Roll-169 (Hasselblad 500C/M. HP5)
 date:  2024-08-06T06:26:17-04:00
 taxonomies:
   tags: ["Photography",Hasselblad,Film]
-slug: 
 summary: 
 cover:
   image: cover.jpg

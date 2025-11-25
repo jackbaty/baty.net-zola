@@ -3,7 +3,6 @@ title: A Nope page
 date:  2024-05-06T06:02:34-04:00
 taxonomies:
   tags: ["Blogging"]
-slug: 
 summary: 
 cover:
   image: 

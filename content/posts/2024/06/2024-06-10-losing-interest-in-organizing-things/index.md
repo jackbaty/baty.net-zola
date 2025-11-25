@@ -3,7 +3,6 @@ title: Losing interest in organizing things
 date:  2024-06-10T13:17:59-04:00
 taxonomies:
   tags: ["Workflow"]
-slug: 
 summary: I'm tired of moving things around on my computers
 cover:
   image: 

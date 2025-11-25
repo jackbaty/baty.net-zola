@@ -3,7 +3,7 @@ title: My paper journal slash scrapbook
 date:  2023-10-20T06:05:21-04:00
 taxonomies:
   tags: ["Analog","Journaling"]
-slug: 
+slug: my-paper-journal-slash-scrapbook
 summary: I do a lot of things that turn out, in hindsight, to have been a complete waste of time. Journaling in my paper notebook/scrapbook is not one of them.
 cover:
   image: 

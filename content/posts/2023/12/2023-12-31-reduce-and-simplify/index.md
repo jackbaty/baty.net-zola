@@ -2,8 +2,7 @@
 title: Reduce and Simplify
 date:  2023-12-31T08:42:36-04:00
 tags: ["Workflow"]
-slug: 
-summary:
+slug: reduce-and-simplify
 ---
 
 If forced to come up with a theme for 2024, I'm going with "Reduce & Simplify".

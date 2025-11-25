@@ -3,7 +3,6 @@ title: Hardcover
 date:  2024-11-25T13:33:08-04:00
 taxonomies:
   tags: ["Software"]
-slug: 
 summary: 
 cover:
   image: hardcover-cover.webp

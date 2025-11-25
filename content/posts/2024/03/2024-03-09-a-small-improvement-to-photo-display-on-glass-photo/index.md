@@ -3,7 +3,6 @@ title: A (small) improvement to photo display on Glass.photo
 date:  2024-03-09T06:32:09-04:00
 taxonomies:
   tags: ["Photography"]
-slug: 
 summary: 
 cover:
   image: 

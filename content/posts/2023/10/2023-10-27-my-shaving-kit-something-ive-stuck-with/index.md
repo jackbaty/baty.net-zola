@@ -3,7 +3,7 @@ title: My shaving kit - something I've stuck with
 date:  2023-10-27T06:11:00-04:00
 taxonomies:
   tags: ["Hardware"]
-slug: 
+slug: my-shaving-kit---something-i-ve-stuck-with
 summary: 
 cover:
   image: 

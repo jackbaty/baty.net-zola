@@ -4,7 +4,7 @@ date:  2023-12-28T07:05:46-04:00
 taxonomies:
   tags: ["Emacs"]
 categories: ["Tech"]
-slug: 
+slug: more-about-org-mode-island
 summary: Following up after reading Jeremy Friesen's response to my earlier post
 ---
 

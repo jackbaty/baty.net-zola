@@ -3,7 +3,6 @@ title: Today's software installations
 date:  2024-05-09T05:53:05-04:00
 taxonomies:
   tags: ["Software"]
-slug: 
 summary:
 cover:
   image: 

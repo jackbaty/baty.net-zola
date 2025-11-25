@@ -3,7 +3,6 @@ title: OWC miniStack STX and the Mac Mini
 date:  2024-03-23T06:23:53-04:00
 taxonomies:
   tags: ["Hardware"]
-slug: 
 summary: I bought a miniStack STX to go with the new M2 Mac Mini
 cover:
   image: 

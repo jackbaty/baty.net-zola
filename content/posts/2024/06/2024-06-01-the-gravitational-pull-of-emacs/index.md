@@ -3,7 +3,6 @@ title: The gravitational pull of Emacs
 date:  2024-06-01T13:22:48-04:00
 taxonomies:
   tags: ["Emacs"]
-slug: 
 summary:
 cover:
   image: 20240526t140221-its-all-emacs.png

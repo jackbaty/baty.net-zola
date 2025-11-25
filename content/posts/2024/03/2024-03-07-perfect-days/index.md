@@ -3,7 +3,6 @@ title: Perfect Days (2023)
 date:  2024-03-07T06:37:22-04:00
 taxonomies:
   tags: ["Movie"]
-slug: 
 summary: More like Perfect _Movie__
 cover:
   image: 

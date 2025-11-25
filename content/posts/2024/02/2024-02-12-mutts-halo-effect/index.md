@@ -3,7 +3,6 @@ title: "Mutt's halo effect"
 date:  2024-02-12T07:13:36-04:00
 taxonomies:
   tags: ["Software", "Email", "Mutt"]
-slug: 
 summary: Using Mutt for email is awesome, but it makes me want to do everything in a terminal
 cover:
   image: 

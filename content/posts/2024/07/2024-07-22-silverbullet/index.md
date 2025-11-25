@@ -3,7 +3,6 @@ title: SilverBullet
 date:  2024-07-22T12:51:58-04:00
 taxonomies:
   tags: ["Software"]
-slug: 
 summary:
 cover:
   image: 

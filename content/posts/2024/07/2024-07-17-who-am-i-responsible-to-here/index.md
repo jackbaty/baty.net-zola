@@ -4,7 +4,6 @@ date:  2024-07-17T12:24:20-04:00
 taxonomies:
   tags: ["Blogging"]
 categories: ["Misc"]
-slug: 
 summary:
 ---
 

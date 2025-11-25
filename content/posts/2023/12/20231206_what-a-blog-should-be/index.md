@@ -4,7 +4,7 @@ date:  2023-12-06T08:26:18-04:00
 taxonomies:
   tags: ["Blogging"]
 categories: ["Tech"]
-slug: 
+slug: what-a-blog-should-be
 summary: Let's not overthink it, eh?
 ---
 

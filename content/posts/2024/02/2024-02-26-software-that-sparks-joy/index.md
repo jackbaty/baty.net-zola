@@ -3,7 +3,6 @@ title: Software that sparks joy
 date:  2024-02-26T06:55:13-04:00
 taxonomies:
   tags: ["Software", "Workflow", "Tinderbox", "Emacs", "TiddlyWiki"]
-slug: 
 summary: 
 cover:
   image: 

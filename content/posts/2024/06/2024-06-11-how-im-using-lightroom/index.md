@@ -3,7 +3,6 @@ title: How I'm using Lightroom
 date:  2024-06-11T13:15:57-04:00
 taxonomies:
   tags: ["Photography","Software"]
-slug: 
 summary: Recent versions of the new Lightroom (Desktop, not "Classic") have added features making it feasible for me to use.
 cover:
   image: 

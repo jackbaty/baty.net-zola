@@ -3,7 +3,6 @@ title: No longer keeping my notes in a Git repo
 date:  2024-02-28T06:51:37-04:00
 taxonomies:
   tags: ["Notetaking"]
-slug: 
 summary: 
 cover:
   image: 

@@ -3,7 +3,6 @@ title: QR codes and index cards?
 date:  2024-05-11T05:49:02-04:00
 taxonomies:
   tags: ["Workflow","Analog","PKM"]
-slug: 
 summary: How about I stick QR codes on index cards as a way to quickly find the original reference?
 cover:
   image: 

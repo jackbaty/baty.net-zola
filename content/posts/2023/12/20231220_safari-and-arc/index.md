@@ -4,7 +4,7 @@ date:  2023-12-20T07:42:05-04:00
 taxonomies:
   tags: ["Web", "Software"]
 categories: ["Tech"]
-slug: 
+slug: safari-and-arc
 summary: After using Arc for months, I've made Safari my default browser.
 ---
 

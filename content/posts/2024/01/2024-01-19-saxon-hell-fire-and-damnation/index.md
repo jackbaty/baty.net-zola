@@ -4,7 +4,6 @@ date:  2024-01-19T12:04:17-04:00
 taxonomies:
   tags: ["music"]
 categories: ["Misc"]
-slug: 
 summary: The new Saxon album is really good.
 cover:
   image: saxon-band.png

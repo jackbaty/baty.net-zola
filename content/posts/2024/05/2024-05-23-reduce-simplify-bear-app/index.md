@@ -3,7 +3,6 @@ title: Reduce & Simplify - Bear app
 date:  2024-05-23T05:38:17-04:00
 taxonomies:
   tags: ["Wokflow","Software","Bear"]
-slug: 
 summary: I like the way Bear limits my options<
 cover:
   image: 

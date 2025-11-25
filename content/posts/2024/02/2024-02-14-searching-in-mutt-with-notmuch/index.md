@@ -3,7 +3,6 @@ title: Searching in Mutt with Notmuch
 date:  2024-02-14T07:10:05-04:00
 taxonomies:
   tags: ["Email","Mutt"]
-slug: 
 summary: Notmuch can be used as a search engine from within Mutt and it's super fast.
 cover:
   image: 

@@ -3,7 +3,6 @@ title: Adding an Edit link to Ghost posts
 date:  2024-11-08T12:00:39-04:00
 taxonomies:
   tags: ["ghost"]
-slug: 
 summary: How I added a subtle link to edit the current page or post in Ghost.
 cover:
   image: ghost-backdoor-edit-link.webp

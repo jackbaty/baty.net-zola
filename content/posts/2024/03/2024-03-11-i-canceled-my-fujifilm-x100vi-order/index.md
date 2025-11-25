@@ -3,7 +3,6 @@ title: I canceled my Fujifilm X100VI order
 date:  2024-03-11T06:29:53-04:00
 taxonomies:
   tags: ["Photography"]
-slug: 
 summary: As much as I would love a new X100VI, I don't actually need one.
 cover:
   image: 
