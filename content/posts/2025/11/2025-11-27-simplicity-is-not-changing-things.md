@@ -20,4 +20,6 @@ Thing is, I switch between all of those options so often it makes me dizzy. No m
 
 You know what would be the simple solution to simplicity? Stop changing everything all the time! If I would just lean into Emacs and be done with it, my writing/note-taking/task management system would be done and done. If I would realize that I'm emotionally inclined to using an SSG for publishing, I could post everything here using Zola. Simple as can be.
 
-Anyway, long story short, the key to simplicity isn't finding the simplist possible thing. The trick is to stop looking.
+Anyway, long story short, the key to simplicity isn't finding the simplest possible thing. The trick is to stop looking.
+
+But will I ever be able to stop looking?
