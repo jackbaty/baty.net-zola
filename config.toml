@@ -320,7 +320,7 @@ footer_menu = [
 # $AUTHOR will be replaced by the `author` variable.
 # $SEPARATOR will be replaced by the `separator` variable.
 # Markdown is supported (links, emphasis, etc).
-copyright = "Jack Baty © $CURRENT_YEAR $AUTHOR $SEPARATOR All rights reserved."
+copyright = "© $CURRENT_YEAR $AUTHOR $SEPARATOR All rights reserved."
 
 # For multi-language sites, you can set a different copyright for each language.
 # The old way of setting `translated_copyright = true` and using i18n files is deprecated.
