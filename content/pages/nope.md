@@ -41,11 +41,12 @@ I collect these throughout each year and record them when they reach a threshold
 
 ### 2025
 
+* [anything]-core
 * Learnings
 * Agentic
 * Fire
 * Banger
-* Trump
+* Trump, because fuck that guy
 * Trauma
 * Bloated
 
