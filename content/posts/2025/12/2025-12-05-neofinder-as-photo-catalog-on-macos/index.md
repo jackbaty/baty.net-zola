@@ -19,6 +19,9 @@ There are all kinds of handy tools to manage photo metadata. Here's just one men
 
 ![NeoFinder menu](neofinder-menu.webp)
 
+Oh, and it's inexpensive ($39.99) with no subscription required.
+
+
 My current plan is to catalog _everything_ using NeoFinder, then export the edited keepers to my [Immich](https://immich.app/) instance for sharing/faces/albums.
 
 I considered using [digiKam](https://www.digikam.org/) for this, as it's nicely cross-platform, but I don't think it'll cut it for the whole catalog. There are some nice tools built into digiKam, so it will remain in the toolbox.
