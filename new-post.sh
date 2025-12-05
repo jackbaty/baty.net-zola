@@ -141,7 +141,7 @@ echo "Created new blog post: $FILE_PATH"
 # Optionally open the file in your preferred editor
 # Uncomment one of the following lines based on your preference:
 # code "$FILE_PATH"        # VS Code
-nvim "$FILE_PATH"         # Vim
+bbedit "$FILE_PATH"         # Vim
 # nano "$FILE_PATH"        # Nano
 # open "$FILE_PATH"        # macOS default app
 
