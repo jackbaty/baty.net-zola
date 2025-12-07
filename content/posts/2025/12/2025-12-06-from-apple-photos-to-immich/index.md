@@ -2,7 +2,7 @@
 title = "From Apple Photos to Immich"
 date = 2025-12-06 06:34:18-05:00
 slug = "from-apple-photos-to-immich"
-description = "I deleted my entire Apple Photes library and moved everything into a self-hosted Immich instance"
+description = "I deleted my entire Apple Photes library and moved everything into a self-hosted Immich instance."
 [taxonomies]
 tags = ["Photography","Software"]
 +++

@@ -7,7 +7,7 @@ description = "A month of using only CLI/TUI tools for everything was mostly a s
   tags = ["Software","Workflow"]
 +++
 
-In November, I experimented with [using only CLI tools](http://127.0.0.1:1111/posts/2025/10/cli-and-tui-only-for-november/). How did it go?
+In November, I experimented with [using only CLI tools](https://baty.net/posts/2025/10/cli-and-tui-only-for-november/). How did it go?
 
 I'd give it a 7 out of 10. 
 
