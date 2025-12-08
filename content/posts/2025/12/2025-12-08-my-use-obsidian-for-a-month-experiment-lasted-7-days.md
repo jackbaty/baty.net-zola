@@ -16,7 +16,7 @@ It hasn't stuck yet, but I was determined to give Obsidian the entire month of D
 
 I keep trying to use it because there are things I like about Obsidian. I like that it can do a lot of fancy stuff, easily, and right out of the box without me having to spend hours figuring out why my hand-made Lisp function isn't working. Linking is easier in Obisidian, and although the Graph is mostly useless, it's still cool to look at. "Unlinked mentions" is a great feature for apps like this, too.
 
-The best thing about Obsidian, though, is it works on macOS and Linux without fuss, and it syncs easily with just about any sync tool. Or I can pay for Obsidian Sync, which is even nicer.
+The best thing about Obsidian, though, is it works on macOS and Linux without fuss, and it syncs easily with just about any sync tool. Or I can pay for Obsidian Sync, which is even nicer. Oh, and it works on iOS, which comes in handy.
 
 So for a week I tried emphasizing the things I like and ignoring the things I don't. It didn't work. Obsidian is almost certainly the Right Answer for many people, even me, probably. I couldn't do it. I caved after only a week.
 
