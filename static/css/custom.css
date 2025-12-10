@@ -31,3 +31,61 @@ a.reply-by-email {
   margin-top: 0;
   margin-block-end: 0;
 }
+
+/* Reading Length Indicator */
+
+.reading-length {
+  display: inline;
+  vertical-align: baseline;
+  font-size: 1.25rem;
+  margin-right: 0.5rem;
+  padding: 0;
+
+}
+
+.length-icon {
+  vertical-align: baseline;
+  line-height: 1;
+}
+
+.post-length-short {
+  /* background-color: #e8f5e9; */
+  /* color: #2e7d32; */
+}
+
+.post-length-medium {
+  /* background-color: #fff3e0; */
+  /* color: #e65100; */
+}
+
+.post-length-long {
+  /* background-color: #e3f2fd; */
+  /* color: #1565c0; */
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .post-length-short {
+    /* background-color: #1b5e20; */
+    /* color: #a5d6a7; */
+  }
+  
+  .post-length-medium {
+    /* background-color: #e65100; */
+    /* color: #ffcc80; */
+  }
+  
+  .post-length-long {
+    /* background-color: #0d47a1; */
+    /* color: #90caf9; */
+  }
+}
+
+.length-icon {
+  font-size: 1.1em;
+  line-height: 1;
+}
+
+.length-label {
+  line-height: 1;
+}
