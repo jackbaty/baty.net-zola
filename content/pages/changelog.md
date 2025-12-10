@@ -10,6 +10,7 @@ Things change around here. This is a record of those changes[^start].
 
 <div class="compact">
 
+- `2025-12-10` Added post size indicators
 - `2025-12-01` Have I mentioned we moved to Zola a while back? No? Well, we moved to Zola a while back.
 - `2025-07-15` Added back analytics. Also trying Goatcounter.
 - `2025-07-12` Added cover image back to RSS feed
