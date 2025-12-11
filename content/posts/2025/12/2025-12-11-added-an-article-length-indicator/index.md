@@ -16,6 +16,8 @@ Instead, I place one of three small icons next to each post.
 **𐄜** = medium read (200-500 words)    
 **𐄞** = longer read (>500 words)    
 
+I'm not sure those are the right limits, so I'll tweak them if it feels wrong.
+
 It looks like this:
 
 ![Screenshot showing indicator](screenshot.webp)
