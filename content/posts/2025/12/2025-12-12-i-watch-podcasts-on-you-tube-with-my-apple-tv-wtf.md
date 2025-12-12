@@ -2,6 +2,7 @@
 title = 'I watch podcasts on YouTube with my Apple TV. WTF?!'
 date = 2025-12-12 14:59:12-05:00
 slug = "i-watch-podcasts-on-you-tube-with-my-apple-tv-wtf"
+description = "Who even am I, lately?"
 [taxonomies]
   tags = ["media"]
 +++
