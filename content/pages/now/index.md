@@ -16,7 +16,7 @@ Updated on November 14, 2025
 
 ## Watched Recently
 
-"One Battle After Another" ⭐⭐⭐⭐
+"Spinal Tap II: The End Continues" ⭐⭐⭐
 
 ## Reading
 

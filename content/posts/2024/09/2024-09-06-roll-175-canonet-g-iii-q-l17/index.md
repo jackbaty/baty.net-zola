@@ -10,7 +10,7 @@ summary: The final final roll from the Canonet
 
 ![Self-portrait in mirror with Canonet](photo2.jpg "Selfie")
 
-I first decided to [sunset the Canonet](https://baty.blog/2022/10/sunsetting-the-canonet), in 2022 due to a few issues making it less than ideal to use. I have a short memory, and was feeling badly about the camera sitting on a shelf, so I loaded it up with a roll of HP5.
+I first decided to [sunset the Canonet](https://baty.blog/2022/10/12/i-think-ill.html), in 2022 due to a few issues making it less than ideal to use. I have a short memory, and was feeling badly about the camera sitting on a shelf, so I loaded it up with a roll of HP5.
 
 Processing the roll yesterday reminded me why I'd set it aside:
 
