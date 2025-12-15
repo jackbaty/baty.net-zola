@@ -3,6 +3,7 @@ SERVER_HOST := "server03.baty.net"
 SERVER_DIR := "/srv/baty.net/public_html"
 PUBLIC_DIR := "${HOME}/sites/zola/site/public/"
 TARGET := "Hetzner"
+ZOLA := "flatpak run org.getzola.zola"
 
 default:
         just --list
@@ -15,10 +16,10 @@ checkpoint:
 	git diff-index --quiet HEAD || git commit -m "Publish checkpoint"
 	
 build:
-	zola build
+	{{ZOLA}} build
 
 serve:
-	zola serve --fast
+	{{ZOLA}} serve --fast
 
 push:
 	git push
