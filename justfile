@@ -3,7 +3,9 @@ SERVER_HOST := "server03.baty.net"
 SERVER_DIR := "/srv/baty.net/public_html"
 PUBLIC_DIR := "${HOME}/sites/zola/site/public/"
 TARGET := "Hetzner"
-ZOLA := "flatpak run org.getzola.zola"
+#ZOLA := "flatpak run org.getzola.zola"
+ZOLA := "/opt/homebrew/bin/zola"
+
 
 default:
         just --list
