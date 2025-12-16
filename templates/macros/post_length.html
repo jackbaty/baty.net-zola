@@ -1,0 +1,23 @@
+{# Post length indicator macro #}
+{% macro reading_length_indicator(word_count) %}
+  {% set length_class = "" %}
+  {% set length_icon = "" %}
+  
+  {% if word_count < 100 %}
+    {% set length_class = "post-length-short" %}
+    {% set length_label = "Quick read" %}
+    {% set length_icon = "𐄚" %}
+  {% elif word_count >= 100 and word_count <= 300 %}
+    {% set length_class = "post-length-medium" %}
+    {% set length_label = "Medium read" %}
+    {% set length_icon = "𐄜" %}
+  {% else %}
+    {% set length_class = "post-length-long" %}
+    {% set length_label = "Long read" %}
+    {% set length_icon = "𐄞" %}
+  {% endif %}
+  
+  <span class="reading-length {{ length_class }}" title="{{ length_label }} ({{ word_count }} words)">
+    <span class="length-icon">{{ length_icon }}</span><!-- <span class="length-label">{{ length_label }}</span> -->
+  </span>
+{% endmacro %}

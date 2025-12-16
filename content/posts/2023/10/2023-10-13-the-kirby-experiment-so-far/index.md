@@ -3,7 +3,7 @@ title: The Kirby Experiment so far
 date:  2023-10-13T06:01:48-04:00
 taxonomies:
   tags: ["Blogging"]
-slug: the-kirby-expiriment-so-far
+slug: the-kirby-experiment-so-far
 summary: How long do we all think my Kirby experiment will last? It's a fair question.
 ---
 
