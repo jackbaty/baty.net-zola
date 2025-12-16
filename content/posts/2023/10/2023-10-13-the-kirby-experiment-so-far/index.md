@@ -16,7 +16,7 @@ First, I'm typing this in Kirby's "block" editor and I can't tell you how much m
 
 In fact, the entire panel is far nicer to use than the WordPress admin. It's clean, light, and fast. It looks like this...
 
-{{< figure src="20231013-baty.net-panel.png" >}}
+![](20231013-baty.net-panel.png)
 
 Block content is stored in text files, but the blocks are encoded as JSON objects. This is great for machines, but not as good for people. And I'm struggling with that. Kirby uses text files as a database, which would normally mean I could grab Emacs and start writing. Except when using blocks it doesn't really work that way. Once I've committed to using the block editor, I'll *always* have to use the block editor. I'm nervous about that. It makes me twitchy, and I've no idea how I could change things later without losing data or at least being forced to translate everything somehow. Like I said, twitchy.
 
